@@ -1,0 +1,58 @@
+.style h1{
+    margin-right: 16px;
+    font-style: italic;
+    letter-spacing: 0.1em;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    padding-bottom: 0;
+    padding-left: 16px;
+}
+
+.style h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color: lightslategray;
+    margin-top: -20px;
+    padding-left: 16px;
+    font-size: smaller;
+    
+}
+
+.style p{
+    padding-top: 24px;
+    padding-left: 36px;
+    padding-right: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.style img{
+     padding-left: 250px;
+     padding-bottom: 24px;
+     padding-top: 50px;
+     height: 400px;
+     width: 600px;
+     align-self: center;
+     margin-bottom: 24px;
+}
+
+.style a{
+    margin-left: 500px;
+    margin-bottom: 24px;
+    
+}
+
+.style{
+    width: 80%;
+    margin: 0;
+    margin-left: 150px;
+    border: 4px lightblue solid;
+    border-radius: 10px;
+    padding-bottom: 24px;
+}
+
+body{
+    background-color: bisque;
+    padding-bottom: 24px;
+    padding-top: 24px;
+}
